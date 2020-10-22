@@ -1,5 +1,5 @@
 # this is a .bat file
-# this causes computer to shutdown with a message, change your message here! to whatever you want
+# this causes computer to shutdown with a message, change "your message here!" to whatever you want
 
 code:
 
