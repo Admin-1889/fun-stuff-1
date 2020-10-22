@@ -1,6 +1,7 @@
 # this is a .vbs extension
 # this program causes the cd driver to be ejected many time
 
+code:
 
 Set oWMP = CreateObject("WMPlayer.OCX.7")
 Set colCDROMs = oWMP.cdromCollection
