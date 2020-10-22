@@ -1,4 +1,4 @@
-# this is a .bat file
+# This is a .bat file
 # This brings up the infamous "Blue Screen Of Death" of Windows, although it is only a dispaly and no actual damage has been done
 
 Code:
