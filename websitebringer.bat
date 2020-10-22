@@ -1,5 +1,5 @@
 # this is a .bat file
-# this launches website in user's default browser, change whateversite . com to actual websites
+# this launches website in user's default browser, change "whateversite . com" to actual websites
 
 
 code:
