@@ -9,5 +9,11 @@ code:
 cls
 start "" whateversite . com
 start "" whateversite . com
+start "" whateversite . com
+start "" whateversite . com
+start "" whateversite . com
+start "" whateversite . com
+start "" whateversite . com
+start "" whateversite . com
 timeout 8
 goto start
